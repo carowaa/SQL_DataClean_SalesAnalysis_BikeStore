@@ -60,13 +60,21 @@ Even though profit and order value bring in similar value to the analysis, I loo
 I have therefore run queries to answer following questions: 
 
 Q1: How much revenue and profit did the Bike Store generate in December?
+
 Q2: How many orders where placed in total?
+
 Q3: How did the numbers of orders and the profit distribute during the month?
+
 Q4: What was the average profit per day?
+
 Q5: Which product bike model generated the largest profit?
+
 Q6: Which product bike model was bought the most?
+
 Q7: Which age group was the most profitable?
+
 Q8: Which country/gender customer segment was the most profitable?
+
 Q9: Which was the largest customer segment?
 
 ### Tableau Dashboard
